@@ -1,9 +1,7 @@
 Машина:
-Процесор: AMD Ryzen 5 5600H with Radeon Graphics (AuthenticAMD, Family 25 Model 80 — архітектура Zen 3)
-
-Логічних ядер: 12
-
-Фізичних ядер: 6 (SMT / 2 потоки на ядро)
+- Процесор: AMD Ryzen 5 5600H with Radeon Graphics (AuthenticAMD, Family 25 Model 80 — архітектура Zen 3)
+- Логічних ядер: 12
+- Фізичних ядер: 6 (SMT / 2 потоки на ядро)
 
 Задача: множина Мандельброта
 
