@@ -35,6 +35,6 @@
 
 ## Файли
 
-- `mandelbrot.py` — реалізація (без бібліотек)
-- `mandelbrot.pgm` — результат (PGM P5, grayscale)
-- `profile_report.txt` — повний вивід cProfile
+- `mandelbrot.py` — код
+- `mandelbrot.pgm` — результат
+- `profile_report.txt` — report
